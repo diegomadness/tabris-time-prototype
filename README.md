@@ -1,4 +1,4 @@
-# testtabrisproject
+# Tabris-time Prototype project
 
 ## Run
 
